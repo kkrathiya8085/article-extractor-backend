@@ -1,0 +1,13 @@
+{
+"name": "article-extractor-backend",
+"version": "1.0.0",
+"private": true,
+"type": "module",
+"description": "ARTICLE EXTRACTOR independent fetch backend",
+"scripts": {
+"start": "node server.js"
+},
+"engines": {
+"node": ">=18"
+}
+}
